@@ -18,7 +18,7 @@ NOTE - [Mark Story's AssetCompress Plugin](https://github.com/markstory/asset_co
 
 ## Requirements ##
 
-* CakePHP 2X
+* CakePHP 2x
 
 ## Installation ##
 
