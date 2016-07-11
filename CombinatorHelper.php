@@ -16,7 +16,7 @@
       'js' => array(
         'path' => '/js',
         'cachePath' => '/cache-js',
-        'enableCompression' => false
+        'enableCompression' => true
       ),
       'css' => array(
         'path' => '/css',
